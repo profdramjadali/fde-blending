@@ -35,3 +35,8 @@
 - Suggested price: ₹99 (amazon.in), US $2.99
 - Publishing rights: "I own the copyright"
 - AI-generated content: cover images AI se bane hain toh "Yes" select karein (cover = AI-generated images)
+
+## Paperback (Pothi.com)
+- Book size: A5, 84 pages, B&W interior
+- Suggested price: ₹199–₹249
+- Same description and keywords as above
